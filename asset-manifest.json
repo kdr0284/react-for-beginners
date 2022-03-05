@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-movie/static/js/main.cb541362.js",
+    "index.html": "/react-movie/index.html",
+    "main.cb541362.js.map": "/react-movie/static/js/main.cb541362.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb541362.js"
+  ]
+}
